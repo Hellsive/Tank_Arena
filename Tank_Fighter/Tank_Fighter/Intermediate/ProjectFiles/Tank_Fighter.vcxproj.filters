@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Tank_Fighter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C7B1A13F-47E1-44DD-B4B8-C9C6EF3510A2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Tank_Fighter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Tank_FighterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{50F4354B-E7B0-4097-9427-35DFD77E94FC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Tank_Fighter">
+      <UniqueIdentifier>{DA12DD56-4A84-4922-9AE7-60A449DA7BC6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Tank_Fighter\Tank_Fighter.Build.cs">
+      <Filter>Source\Tank_Fighter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Tank_Fighter\Tank_Fighter.cpp">
+      <Filter>Source\Tank_Fighter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tank_Fighter\Tank_Fighter.h">
+      <Filter>Source\Tank_Fighter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tank_Fighter\Tank_FighterGameModeBase.cpp">
+      <Filter>Source\Tank_Fighter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tank_Fighter\Tank_FighterGameModeBase.h">
+      <Filter>Source\Tank_Fighter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

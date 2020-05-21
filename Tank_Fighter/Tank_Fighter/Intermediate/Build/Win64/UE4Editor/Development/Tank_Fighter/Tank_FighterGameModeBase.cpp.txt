@@ -1,0 +1,7 @@
+J:\2020_Projects\Side_Projects\Tank_Fighter\Tank_Fighter_Unreal4\Tank_Fighter\Tank_Fighter\Intermediate\Build\Win64\UE4Editor\Development\Tank_Fighter\Definitions.Tank_Fighter.h
+j:\2020_projects\side_projects\tank_fighter\tank_fighter_unreal4\tank_fighter\tank_fighter\source\tank_fighter\Tank_FighterGameModeBase.h
+Z:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+Z:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+Z:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+Z:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+J:\2020_Projects\Side_Projects\Tank_Fighter\Tank_Fighter_Unreal4\Tank_Fighter\Tank_Fighter\Intermediate\Build\Win64\UE4Editor\Inc\Tank_Fighter\Tank_FighterGameModeBase.generated.h

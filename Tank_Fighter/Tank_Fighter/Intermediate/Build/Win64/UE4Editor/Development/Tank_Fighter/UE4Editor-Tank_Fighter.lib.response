@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Tank_Fighter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"J:\2020_Projects\Side_Projects\Tank_Fighter\Tank_Fighter_Unreal4\Tank_Fighter\Tank_Fighter\Intermediate\Build\Win64\Tank_FighterEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"J:\2020_Projects\Side_Projects\Tank_Fighter\Tank_Fighter_Unreal4\Tank_Fighter\Tank_Fighter\Intermediate\Build\Win64\UE4Editor\Development\Tank_Fighter\Tank_Fighter.cpp.obj"
+"J:\2020_Projects\Side_Projects\Tank_Fighter\Tank_Fighter_Unreal4\Tank_Fighter\Tank_Fighter\Intermediate\Build\Win64\UE4Editor\Development\Tank_Fighter\Tank_FighterGameModeBase.cpp.obj"
+"J:\2020_Projects\Side_Projects\Tank_Fighter\Tank_Fighter_Unreal4\Tank_Fighter\Tank_Fighter\Intermediate\Build\Win64\UE4Editor\Development\Tank_Fighter\Tank_Fighter.init.gen.cpp.obj"
+"J:\2020_Projects\Side_Projects\Tank_Fighter\Tank_Fighter_Unreal4\Tank_Fighter\Tank_Fighter\Intermediate\Build\Win64\UE4Editor\Development\Tank_Fighter\Tank_FighterGameModeBase.gen.cpp.obj"
+"J:\2020_Projects\Side_Projects\Tank_Fighter\Tank_Fighter_Unreal4\Tank_Fighter\Tank_Fighter\Intermediate\Build\Win64\UE4Editor\Development\Tank_Fighter\Default.rc2.res"
+/OUT:"J:\2020_Projects\Side_Projects\Tank_Fighter\Tank_Fighter_Unreal4\Tank_Fighter\Tank_Fighter\Intermediate\Build\Win64\UE4Editor\Development\Tank_Fighter\UE4Editor-Tank_Fighter.lib"
+/INCLUDE:IMPLEMENT_MODULE_Tank_Fighter

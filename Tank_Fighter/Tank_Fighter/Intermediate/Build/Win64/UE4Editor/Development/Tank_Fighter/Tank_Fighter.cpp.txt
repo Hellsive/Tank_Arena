@@ -1,0 +1,2 @@
+J:\2020_Projects\Side_Projects\Tank_Fighter\Tank_Fighter_Unreal4\Tank_Fighter\Tank_Fighter\Intermediate\Build\Win64\UE4Editor\Development\Tank_Fighter\Definitions.Tank_Fighter.h
+j:\2020_projects\side_projects\tank_fighter\tank_fighter_unreal4\tank_fighter\tank_fighter\source\tank_fighter\Tank_Fighter.h
